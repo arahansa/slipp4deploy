@@ -1,6 +1,5 @@
 .gradle
 /build/
-!gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -32,5 +31,4 @@ nbdist/
 
 !.elasticbeanstalk/*.global.yml
 
-gradle/
 out/

@@ -9,7 +9,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class ArahansaApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ArahansaApplication.class, args);
+		System.out.println("=== hello world === ");
 	}
 
 	@Controller
